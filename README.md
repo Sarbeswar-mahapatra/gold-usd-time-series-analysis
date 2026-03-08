@@ -39,12 +39,12 @@ The data was cleaned and merged to ensure consistent monthly frequency.
 
 This project was implemented using the following tools:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Statsmodels
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statsmodels
 
 These libraries were used for data cleaning, visualization, and econometric modeling.
 
